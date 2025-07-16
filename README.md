@@ -1,3 +1,3 @@
 # Lanthanum
-This is my first Git Respostitory
+This is my first Git Respostitory.
 Author-Shah Prachi
